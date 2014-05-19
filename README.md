@@ -22,4 +22,4 @@ no errors.
 
 ## How to run
 
-` ruby enumerator_test.rb
+    ruby enumerator_test.rb
