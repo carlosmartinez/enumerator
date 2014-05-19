@@ -20,4 +20,6 @@ This requires Ruby 1.9. The Enumerator[2] documentation might be useful.
 This is a stub implementation that causes failures in in the test suite, but
 no errors.
 
-You can run the test suite with: `ruby combined_enumerator.rb`.
+## How to run
+
+` ruby enumerator_test.rb
